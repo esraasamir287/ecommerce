@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* .image-card{
+    height: 34rem;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+span,div,p,li,ul,h1,h2,h3,h4,h5,th,td,thead{
+    font-family: 'Montserrat Alternates', sans-serif !important;
+
+}
+.img{
+    height: 28rem;
+    padding: 2rem;
+    overflow: initial;
+}
+.card-product{
+    height: 35rem;
+}
+.css-46bh2p-MuiCardContent-root {
+    /* padding: 0px 22px !important; */
+}
+.fav-icon-div{
+    position: absolute;
+}
+#root{
+   background-color: #f4e9e3; 
+   overflow: hidden;
+}

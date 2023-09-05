@@ -1,0 +1,38 @@
+.categories-row{
+    height: 88vh;
+}
+.img-category {
+    z-index: -55555555555555;
+    position: relative;
+}
+.img-category  img{
+    width: 100%;
+}
+.text-category{
+    position: absolute;
+    top: 63px;
+    right: 6rem;
+    z-index: 1000000;
+    font-size: 2.6666666666667rem;
+    line-height: 1.25em;
+    color: white;
+}
+
+.overlay-color {
+    background-color: black;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    opacity: .3;
+}
+.category-card {
+    height: 100%;
+    position: relative;
+    z-index: 44444;
+}
+.category-shop-btn{
+    background: white !important;
+    color: black !important;
+    padding: 10px 20px !important;
+    border-radius: 0px !important;
+}

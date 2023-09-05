@@ -1,0 +1,31 @@
+.cart-section{
+    min-height: 100vh;
+}
+.cart-product-img{
+    height: 5rem;
+}
+thead.MuiTableHead-root.css-15wwp11-MuiTableHead-root{
+    background-color: #f7f7f9 !important;
+    border-top: 1px solid #e0e0e0 !important;
+}
+th.MuiTableCell-root.MuiTableCell-head.MuiTableCell-alignRight.MuiTableCell-sizeMedium.css-1azl6jz-MuiTableCell-root{
+    color: #7A7A7A !important;
+    font-weight: bold !important;
+    font-size: 1.1rem !important;
+    text-align: center !important;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiTableContainer-root.css-11xur9t-MuiPaper-root-MuiTableContainer-root{
+    padding: 0 !important;
+}
+.css-34nofg-MuiTableRow-root:last-child td, .css-34nofg-MuiTableRow-root:last-child th{
+    text-align: center;
+}
+.trash-color{
+    color: red;
+}
+.trash-cell{
+    width: 1rem !important;
+}
+.cart-product-details{
+    font-weight: bold !important;
+}

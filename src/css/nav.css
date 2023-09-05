@@ -1,0 +1,15 @@
+.img-logo{
+    width: 3rem;
+    border-radius: 50%;
+    margin: 0 70px;
+}
+.bg-nav{
+    background-color: #313233;
+}
+a {
+    text-decoration: none !important;
+    color: #fff;
+}
+.icons-color{
+    color: #fff;
+}

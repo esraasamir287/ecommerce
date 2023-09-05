@@ -1,0 +1,10 @@
+.slide-div{
+    height: 100vh;
+}
+.slick-slide img{
+    width: 100%;
+    height: 90%;
+}
+.slick-list{
+    height: 85vh;
+}

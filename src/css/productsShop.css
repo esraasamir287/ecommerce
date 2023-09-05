@@ -1,0 +1,35 @@
+.cat-card-product{
+    color: #9f9f9f !important;
+    font-weight: 600 !important;
+}
+.price-cart-product{
+    color: #9f9f9f!important;
+    font-weight: bold !important;
+    font-size: 1rem !important;
+}
+.img-product-card{
+    height: 22rem;
+    padding: 0 !important;
+}
+.css-46bh2p-MuiCardContent-root{
+    padding: 0 !important;
+}
+.name-product-card{
+    font-weight: bold !important;
+    font-size: 1.1rem !important; 
+}
+.card-product {
+    height: 30rem !important;
+}
+.product-card-section{
+    background-color: white;
+    margin: 3rem 1rem 0;
+}
+.filter-price{
+    font-size: 14px;
+    margin-top: 8px;
+}
+.filter-shop-card {
+    background-color: white;
+    min-height: 28vh;
+}
